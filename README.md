@@ -118,7 +118,7 @@ Managing **customer orders**, **inventory**, and **marketing activities** manual
 
 ## 📊 Reports & Dashboards
 
-Interactive reports and dashboards were created to monitor key business operations, enabling better decision-making and performance tracking.
+**Interactive reports and dashboards were created to monitor key business operations, enabling better decision-making and performance tracking.**
 
 ### Reports Included
 
@@ -131,7 +131,7 @@ Interactive reports and dashboards were created to monitor key business operatio
 
 ## 🧪 Testing
 
-The project was tested to ensure functionality, reliability, and data integrity across all modules.
+**The project was tested to ensure functionality, reliability, and data integrity across all modules.**
 
 ### Testing Activities
 
@@ -147,7 +147,7 @@ The project was tested to ensure functionality, reliability, and data integrity 
 
 ## 📚 Learning Outcomes
 
-This project provided practical exposure to Salesforce CRM development and strengthened my understanding of enterprise application development.
+**This project provided practical exposure to Salesforce CRM development and strengthened my understanding of enterprise application development.**
 
 ### Skills Gained
 
