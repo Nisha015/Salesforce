@@ -34,7 +34,7 @@ HandsMen Threads addresses these challenges by providing a centralized Salesforc
 
 ## 💡 Solution
 
-The CRM solution integrates multiple business operations into a unified platform by providing:
+**The CRM solution integrates multiple business operations into a unified platform by providing:**
 
 | Module | Purpose |
 |---------|---------|
@@ -79,49 +79,28 @@ The CRM solution integrates multiple business operations into a unified platform
 
 ---
 
-## 🏗️ Project Architecture
+## 🏗️ System Architecture
 
-```
-
-Users
-│
-▼
-
-Salesforce Lightning App
-
-│
-
-├── Customer Module
-
-├── Order Module
-
-├── Product Module
-
-├── Inventory Module
-
-└── Campaign Module
-
-│
-
-▼
-
-Business Automation
-
-├── Salesforce Flows
-
-├── Apex Triggers
-
-├── Batch Apex
-
-└── Email Templates
-
-│
-
-▼
-
-Reports & Dashboards
-
-```
+```text
+👤 Users
+      │
+      ▼
+⚡ Salesforce Lightning App
+      │
+ ┌────┼────┐
+ │    │    │
+ ▼    ▼    ▼
+👤 Customers
+🛒 Orders
+📦 Inventory
+🏷️ Products
+📢 Campaigns
+      │
+      ▼
+🔄 Flows & Apex Automation
+      │
+      ▼
+📊 Reports & Dashboards
 
 ---
 
@@ -196,7 +175,7 @@ This project provided practical experience in Salesforce CRM development and str
 
 ## 🚀 Future Enhancements
 
-The project can be further enhanced by integrating advanced Salesforce capabilities and modern business solutions.
+**The project can be further enhanced by integrating advanced Salesforce capabilities and modern business solutions.**
 
 - 🤖 AI-powered Customer Support
 - 📱 WhatsApp & SMS Notifications
