@@ -1,4 +1,4 @@
-# 👔 HandsMen Threads
+# 👔 HandsMen Threads - Salesforce CRM Implementation
 
 ### Salesforce CRM Solution for Premium Men's Fashion Brand
 
@@ -18,17 +18,17 @@
 
 ## 📖 About the Project
 
-HandsMen Threads is a Salesforce CRM implementation developed as part of my Salesforce internship project. The application is designed to simplify business operations for a premium men's fashion brand by centralizing customer information, order management, inventory tracking, and marketing activities within a single CRM platform.
+**HandsMen Threads** is a **Salesforce CRM implementation** developed as part of my **Salesforce internship project**. The application is designed to simplify **business operations** for a premium men's fashion brand by centralizing **customer information**, **order management**, **inventory tracking**, and **marketing activities** within a single CRM platform.
 
-The project leverages Salesforce's declarative tools and Apex programming to automate workflows, improve operational efficiency, and enhance the overall customer experience.
+The project leverages **Salesforce's declarative tools** and **Apex programming** to automate workflows, improve **operational efficiency**, and enhance the **overall customer experience**.
 
 ---
 
 ## 🎯 Problem Statement
 
-Managing customer orders, inventory, and marketing activities manually can lead to delays, data inconsistencies, and reduced operational efficiency.
+Managing **customer orders**, **inventory**, and **marketing activities** manually can lead to **delays**, **data inconsistencies**, and **reduced operational efficiency**.
 
-HandsMen Threads addresses these challenges by providing a centralized Salesforce CRM solution that automates business processes, improves customer engagement, and enables efficient inventory management.
+**HandsMen Threads** addresses these challenges by providing a **centralized Salesforce CRM solution** that automates **business processes**, improves **customer engagement**, and enables **efficient inventory management**.
 
 ---
 
