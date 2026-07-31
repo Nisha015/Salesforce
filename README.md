@@ -81,26 +81,13 @@ HandsMen Threads addresses these challenges by providing a centralized Salesforc
 
 ## 🏗️ System Architecture
 
-```text
-👤 Users
-      │
-      ▼
-⚡ Salesforce Lightning App
-      │
- ┌────┼────┐
- │    │    │
- ▼    ▼    ▼
-👤 Customers
-🛒 Orders
-📦 Inventory
-🏷️ Products
-📢 Campaigns
-      │
-      ▼
-🔄 Flows & Apex Automation
-      │
-      ▼
-📊 Reports & Dashboards
+| Layer | Components |
+|--------|------------|
+| 🖥️ **Presentation Layer** | Salesforce Lightning App |
+| ⚙️ **Business Logic Layer** | Apex Classes, Apex Triggers, Salesforce Flows |
+| 🗂️ **Data Layer** | Customer, Orders, Products, Inventory, Campaign Objects |
+| 🔐 **Security Layer** | Profiles, Roles, Permission Sets, Sharing Rules |
+| 📊 **Analytics Layer** | Reports & Dashboards |
 
 ---
 
@@ -108,11 +95,11 @@ HandsMen Threads addresses these challenges by providing a centralized Salesforc
 
 | Module | Description |
 |---------|-------------|
-| 👤 Customer | Stores customer information and purchase history |
-| 🛍️ Orders | Manages customer orders and order lifecycle |
-| 📦 Inventory | Tracks stock availability and inventory levels |
-| 🏷️ Products | Maintains product catalog and pricing |
-| 📢 Campaigns | Handles marketing and customer engagement |
+| 👤 **Customer** | Manages customer profiles and contact information. |
+| 🛒 **Orders** | Handles customer orders and tracks order status. |
+| 📦 **Inventory** | Monitors stock levels and inventory availability. |
+| 🏷️ **Products** | Maintains product catalog and pricing details. |
+| 📢 **Campaigns** | Supports marketing campaigns and customer engagement. |
 
 ---
 
@@ -131,32 +118,36 @@ HandsMen Threads addresses these challenges by providing a centralized Salesforc
 
 ## 📊 Reports & Dashboards
 
-Interactive reports and dashboards were created to monitor:
+Interactive reports and dashboards were created to monitor key business operations, enabling better decision-making and performance tracking.
 
-- Inventory Status
-- Customer Orders
-- Customer Records
-- Marketing Campaign Performance
+### Reports Included
+
+- 📦 Inventory Status Report
+- 🛒 Customer Orders Report
+- 👤 Customer Records Report
+- 📢 Campaign Performance Report
 
 ---
 
 ## 🧪 Testing
 
-The project was tested using:
+The project was tested to ensure functionality, reliability, and data integrity across all modules.
 
-- Apex Test Classes
-- Manual Functional Testing
-- Validation Rule Testing
-- Flow Validation
-- Email Notification Testing
-- Batch Apex Execution
-- Debug Logs
+### Testing Activities
+
+- ✅ Apex Test Classes
+- ✅ Manual Functional Testing
+- ✅ Validation Rule Testing
+- ✅ Salesforce Flow Validation
+- ✅ Email Notification Testing
+- ✅ Batch Apex Execution
+- ✅ Debug Log Analysis
 
 ---
 
 ## 📚 Learning Outcomes
 
-This project provided practical experience in Salesforce CRM development and strengthened my understanding of enterprise application development.
+This project provided practical exposure to Salesforce CRM development and strengthened my understanding of enterprise application development.
 
 ### Skills Gained
 
@@ -189,10 +180,12 @@ This project provided practical experience in Salesforce CRM development and str
 **Nisha Kumari**
 
 🎓 B.Tech Computer Science Engineering  
-🏫 DIT University, Dehradun
+🏫 DIT University, Dehradun  
 
 💼 Salesforce CRM Developer | Full Stack Developer | DevOps Enthusiast
 
 ---
 
-⭐ If you found this project interesting, consider giving it a star!
+<p align="center">
+⭐ <b>If you found this project interesting, consider giving it a star!</b> ⭐
+</p>
